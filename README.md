@@ -1,4 +1,4 @@
-# reviews-react-project
+# Reviews-React-Project
 Part of a Portfolio series on Github
 
 React Reviews Project. Using conditional rendering with random review generator
