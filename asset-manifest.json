@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reviews-react-project/static/css/main.3d9f8e8d.chunk.css",
+    "main.js": "/reviews-react-project/static/js/main.45d0fbd5.chunk.js",
+    "main.js.map": "/reviews-react-project/static/js/main.45d0fbd5.chunk.js.map",
+    "runtime-main.js": "/reviews-react-project/static/js/runtime-main.c2b00ed7.js",
+    "runtime-main.js.map": "/reviews-react-project/static/js/runtime-main.c2b00ed7.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/reviews-react-project/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/reviews-react-project/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/reviews-react-project/index.html",
+    "precache-manifest.f9d6821b2c7c7aec1bcf54d58d0ae29e.js": "/reviews-react-project/precache-manifest.f9d6821b2c7c7aec1bcf54d58d0ae29e.js",
+    "service-worker.js": "/reviews-react-project/service-worker.js",
+    "static/css/main.3d9f8e8d.chunk.css.map": "/reviews-react-project/static/css/main.3d9f8e8d.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/reviews-react-project/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b00ed7.js",
+    "static/js/2.bdbc782b.chunk.js",
+    "static/css/main.3d9f8e8d.chunk.css",
+    "static/js/main.45d0fbd5.chunk.js"
+  ]
+}
